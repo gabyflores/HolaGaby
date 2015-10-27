@@ -1,6 +1,6 @@
 ---
 applications:
-- buildpack: https://github.com/gabyflores/HolaGaby.git/staticfile-buildpack.git
+- buildpack: https://github.com/gabyflores/HolaGaby.git
   host: HolaGaby-html-${augueprego}
   name: HolaGaby-html
   memory: 64M
